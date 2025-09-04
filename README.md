@@ -3,9 +3,9 @@
 **AI-powered cold email generator that matches job requirements with your portfolio projects**
 
 <img width="1184" height="694" alt="1" src="https://github.com/user-attachments/assets/785d44ba-07ac-47cd-a656-fb41688cbbd3" />
-<img width="571" height="218" alt="4" src="https://github.com/user-attachments/assets/b5d514b1-fa0f-4bfb-95e7-603393c0da49" />
-<img width="554" height="798" alt="3" src="https://github.com/user-attachments/assets/9677a357-a4a7-4a75-b0e4-96e4b882151b" />
 <img width="1149" height="534" alt="2" src="https://github.com/user-attachments/assets/0562f8ef-2004-4eb3-845d-81762a58ef5e" />
+<img width="554" height="798" alt="3" src="https://github.com/user-attachments/assets/9677a357-a4a7-4a75-b0e4-96e4b882151b" />
+<img width="571" height="218" alt="4" src="https://github.com/user-attachments/assets/b5d514b1-fa0f-4bfb-95e7-603393c0da49" />
 
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
